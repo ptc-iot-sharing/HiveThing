@@ -1,5 +1,5 @@
-Apache Hive (TM)
-================
+# HiveThing
+
 The Apache Hive (TM) data warehouse software facilitates reading,
 writing, and managing large datasets residing in distributed storage
 using SQL. Built on top of Apache Hadoop (TM), it provides:
@@ -16,9 +16,7 @@ using SQL. Built on top of Apache Hadoop (TM), it provides:
 * Query execution using Apache Hadoop MapReduce, Apache Tez
   or Apache Spark frameworks.
 
-  
-
-# HiveThing
+This extension allows the user to interact with a Hive server, and perform the tasks listed below. 
 
 **Services**
 
