@@ -6,11 +6,11 @@ This repository is provided "AS-IS" with **no warranty or support** given. This 
 
 Download the project build files from 
 
-[here]: https://github.com/ptc-iot-sharing/HiveThing/archive/refs/tags/v1.4.74.zip	"here"
+https://github.com/ptc-iot-sharing/HiveThing/archive/refs/tags/v1.4.74.zip
 
 Download the extension package from
 
-[here]: https://github.com/ptc-iot-sharing/HiveThing/releases/download/v1.4.74/HiveJDBC.zip	" here"
+https://github.com/ptc-iot-sharing/HiveThing/releases/download/v1.4.74/HiveJDBC.zip
 
 
 
