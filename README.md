@@ -50,9 +50,9 @@ This extension allows the user to interact with a Hive server, and perform the t
 
 *password* - the password if it is configured
 
-*serverName* - the IP address or hostname of the Solr server
+*serverName* - the IP address or hostname of the Hive server
 
-*serverPort* - the port that is configured to receive queries on the Solr server
+*serverPort* - the port that is configured to receive queries on the Hive server
 
 *userName* - the username that will be used together with the password to authenticate, can be blank
 
