@@ -1,5 +1,21 @@
 # HiveThing
 
+**Disclaimer**
+
+This repository is provided "AS-IS" with **no warranty or support** given. This is not an official or supported product/use case. 
+
+Download the project build files from 
+
+[here]: https://github.com/ptc-iot-sharing/HiveThing/archive/refs/tags/v1.4.74.zip
+
+Download the extension package from
+
+[here]: https://github.com/ptc-iot-sharing/HiveThing/releases/download/v1.4.74/HiveJDBC.zip
+
+
+
+**Description**
+
 The Apache Hive (TM) data warehouse software facilitates reading,
 writing, and managing large datasets residing in distributed storage
 using SQL. Built on top of Apache Hadoop (TM), it provides:
